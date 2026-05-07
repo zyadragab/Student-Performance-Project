@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction — ML Project
+# 🎓 Student Performance Prediction
 
 A machine learning project that predicts students' final grades (G3) using 5 regression models, with a full interactive web app built with Streamlit.
 
@@ -153,22 +153,3 @@ Built a full interactive web app with 6 pages:
 🔗 **Live Demo:** [student-performance-project-qfpr33dmljmxwu8ntmgu5u.streamlit.app](https://student-performance-project-qfpr33dmljmxwu8ntmgu5u.streamlit.app/)
 
 ---
-
-## 🛠️ Tech Stack
-
-- Python 3.11
-- Streamlit
-- Scikit-learn
-- Pandas & NumPy
-- Matplotlib & Seaborn
-
----
-
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/zyadragab/Student-Performance-Project
-cd Student-Performance-Project
-pip install -r requirements.txt
-streamlit run app.py
-```
